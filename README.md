@@ -50,4 +50,4 @@
 [Infinity Blade](https://www.unrealengine.com/marketplace/ko/assets?keywords=infinity%20blade) : 맵과 미니언의 모델
 
 ## 제작 기간
-2020년 3월 8일 ~ 2020년 3월 26일
+2021년 3월 8일 ~ 2021년 3월 26일
