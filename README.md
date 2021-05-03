@@ -6,8 +6,6 @@
 
 좋아하는 게임을 조금이나마 만들어보자 해서 만들었습니다.
 
-하지만 전체 파일을 넣기엔 너무 큰 바람에 소스파일만 커밋했습니다.
-
 ## 영상
 필드전
 [![FiledPlay](https://img.youtube.com/vi/T9Zk9K5Cj0I/sddefault.jpg)](https://youtu.be/T9Zk9K5Cj0I)
