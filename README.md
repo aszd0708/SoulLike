@@ -10,10 +10,10 @@
 
 ## 영상
 필드전
-[![FiledPlay](https://img.youtube.com/vi/IIODzGtT1dk/sddefault.jpg)](https://www.youtube.com/watch?v=IIODzGtT1dk)
+[![FiledPlay](https://img.youtube.com/vi/T9Zk9K5Cj0I/sddefault.jpg)](https://youtu.be/T9Zk9K5Cj0I)
 
 보스전
-[![BossPlay](https://img.youtube.com/vi/2B34GB5ynyw/sddefault.jpg)](https://www.youtube.com/watch?v=2B34GB5ynyw)
+[![BossPlay](https://img.youtube.com/vi/_90AZ9PPuTY/sddefault.jpg)](https://youtu.be/_90AZ9PPuTY)
 
 ## 설명
 
